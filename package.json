@@ -1,0 +1,23 @@
+{
+	"name": "p-all-good",
+	"version": "1.0.0",
+	"description": "Collect all resolved promise values",
+	"main": "p-all-good.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.eldergods.com/p-all-good"
+	},
+	"keywords": [
+		"flatten",
+		"settle",
+		"promise"
+	],
+	"author": "rektide de la faye",
+	"license": "X11",
+	"dependencies": {
+		"is-string": "^1.0.4"
+	}
+}
